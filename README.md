@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Teck Stack
+### Teck Stack
 
 ##### Programming
 <span>
