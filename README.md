@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hyojoon Shin 
 
 ### Current status 
 - Majoring in *Computer Science* at Korea University 
