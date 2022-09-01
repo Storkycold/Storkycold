@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Current status 
-- Majoring in Computer Science at Korea University 
+- Majoring in *Computer Science* at Korea University 
 - Interested in Computer Vision 
 
 ### Teck Stack
@@ -15,6 +15,14 @@
 </span>
 <span> 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
+
+##### Machine Learning 
+<span> 
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+</span>
+<span>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 </span>
 
 ##### Web 
