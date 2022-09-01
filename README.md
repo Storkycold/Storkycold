@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Current status 
+- Majoring in Computer Science at Korea University 
+- Completed DataCampus program 
+- Interested in Computer Vision 
+
 ### Teck Stack
 
 ##### Programming
