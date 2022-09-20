@@ -2,7 +2,7 @@
 
 ### Current status 
 - Majoring in *Computer Science* at Korea University 
-- Participating in *DevKor / Kucc* 
+- Participating in DevKor / Kucc
 - Interested in Computer Vision 
 
 ### Teck Stack
