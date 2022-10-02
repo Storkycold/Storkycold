@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={storkycold})](https://solved.ac/{storkycold})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=storkycold)](https://solved.ac/storkycold)
 
 <!--
 **Storkycold/Storkycold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
